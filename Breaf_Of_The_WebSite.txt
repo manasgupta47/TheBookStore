@@ -1,0 +1,28 @@
+                                                   TheBookStore
+
+In this Website I used HTML, CSS, JAVASCRIPT. It is a responsive website for mobile and Laptop or any other devices.
+
+Procees For Designing the website -->
+Firstily I created header section for the website. I put name , search box and some icons from font awesome like heart, 
+shopping cart, and all the related links for showing the fonts within the website.
+
+
+In header-2 class I created Nav-bar like home,featured, reviews and contactus page links for contactus page. And If 
+I open the website in Mobile so there was other Bottom Nav-bar for mobile view. then I created different different 
+Sections Related to Nav-Bar Like home section Featured Section and Review Section using different - different images 
+and classes and using Some css Functionalities for responsiveness of the webstie in different views.
+
+
+After that I create a contacus Page for any type of Inquire or Demo requests. here I created a Form Which a user can 
+send any type of Query related to the Website to the admin. I am not adding the function in the filled form information
+is sent by mail because function has to be a correct email and password then the query sent to admin.
+
+
+
+I used Different Different Functionalites of CSS For the responsiveness of Website like using REM unit for responsiveness that become mobile Freindly.
+
+
+Challenges --->
+There is a challenge to create a responsive website using HTML, CSS so I take some Youtube Videos Help and Some Doctumentation Help for
+creating a responsive website.
+‎
